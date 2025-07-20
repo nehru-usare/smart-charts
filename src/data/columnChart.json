@@ -1,0 +1,19 @@
+{
+  "chart": {
+    "title": "Monthly Revenue",
+    "subtitle": "2024 Overview",
+    "axisNames": { "x": "Month", "y": "USD" },
+    "orientation": "vertical",
+    "bar": { "width": 25, "spacing": 12 },
+    "colors": { "bar": "#3498db" },
+    "showValues": true,
+    "showExportButton": true,
+    "exportFileName": "monthly-revenue-2024"
+  },
+  "data": [
+    { "label": "Jan", "value": 450000 },
+    { "label": "Feb", "value": 520000 },
+    { "label": "Mar", "value": 610000 },
+    { "label": "Apr", "value": 700000 }
+  ]
+}

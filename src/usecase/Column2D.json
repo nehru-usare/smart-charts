@@ -1,0 +1,76 @@
+{
+  "chart": {
+    "title": "Monthly Revenue - 2024",
+    "subtitle": "Harry's SuperMart",
+    "showDescription": true,
+
+    "showExportButton": true,
+    "exportFileName": "my-chart",
+
+    "width": "100%",
+    "height": "100%",
+    "backgroundColor": "#f0f0f0",
+    "orientation": "vertical",
+
+    "showValues": true,
+    "numberPrefix": "$",
+
+    "axisNames": {
+      "x": "Month",
+      "y": "Revenue (USD)"
+    },
+
+    "captionFont": "20px sans-serif",
+    "subCaptionFont": "14px sans-serif",
+
+    "colors": {
+      "bar": "#2ecc71",
+      "hover": "#27ae60"
+    },
+
+    "bar": {
+      "width": 30,
+      "spacing": 15,
+      "radius": 6
+    },
+
+    "axis": {
+      "yTicks": 6,
+      "xLabelFont": "12px sans-serif",
+      "yLabelFont": "11px sans-serif",
+      "yAxisLabelOffset": 45,
+      "yAxisTitlePadding": 10
+    },
+
+    "showXAxisLine": true,
+    "showYAxisLine": true,
+
+    "showTrendlines": true,
+    "trendlines": [
+      {
+        "line": [
+          {
+            "startvalue": "700000",
+            "displayvalue": "Target",
+            "valueOnRight": "1"
+          }
+        ]
+      }
+    ]
+  },
+
+  "data": [
+    { "label": "Jan", "value": 420000, "color": "#f39c12", "description": "Post-holiday dip" },
+    { "label": "Feb", "value": 810000, "color": "#e74c3c", "description": "Valentine's spike" },
+    { "label": "Mar", "value": 720000, "description": "Strong marketing campaign" },
+    { "label": "Apr", "value": 550000 },
+    { "label": "May", "value": 910000 },
+    { "label": "Jun", "value": 510000 },
+    { "label": "Jul", "value": 680000 },
+    { "label": "Aug", "value": 620000 },
+    { "label": "Sep", "value": 610000 },
+    { "label": "Oct", "value": 490000 },
+    { "label": "Nov", "value": 900000 },
+    { "label": "Dec", "value": 730000 }
+  ]
+}

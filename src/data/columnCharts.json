@@ -1,0 +1,230 @@
+[
+    {
+        "chart": {
+            "title": "Revenue 2024",
+            "subtitle": "Monthly Sales",
+            "orientation": "vertical",
+            "showExportButton": true,
+            "axisNames": {
+                "x": "Month",
+                "y": "USD"
+            },
+            "bar": {
+                "width": 20,
+                "spacing": 12
+            },
+            "colors": {
+                "bar": "#3498db"
+            }
+        },
+        "data": [
+            {
+                "label": "Jan",
+                "value": 450000
+            },
+            {
+                "label": "Feb",
+                "value": 520000
+            },
+            {
+                "label": "Mar",
+                "value": 610000
+            }
+        ]
+    },
+    {
+        "chart": {
+            "title": "Monthly Revenue - 2024",
+            "subtitle": "Harry's SuperMart",
+            "showDescription": true,
+            "showExportButton": true,
+            "exportFileName": "my-chart",
+            "width": "100%",
+            "height": "100%",
+            "backgroundColor": "#f0f0f0",
+            "orientation": "vertical",
+            "showValues": true,
+            "numberPrefix": "$",
+            "axisNames": {
+                "x": "Month",
+                "y": "Revenue (USD)"
+            },
+            "captionFont": "20px sans-serif",
+            "subCaptionFont": "14px sans-serif",
+            "colors": {
+                "bar": "#2ecc71",
+                "hover": "#27ae60"
+            },
+            "bar": {
+                "width": 30,
+                "spacing": 15,
+                "radius": 6
+            },
+            "axis": {
+                "yTicks": 6,
+                "xLabelFont": "12px sans-serif",
+                "yLabelFont": "11px sans-serif",
+                "yAxisLabelOffset": 45,
+                "yAxisTitlePadding": 10
+            },
+            "showXAxisLine": true,
+            "showYAxisLine": true,
+            "showTrendlines": true,
+            "trendlines": [
+                {
+                    "line": [
+                        {
+                            "startvalue": 700000,
+                            "displayvalue": "Target",
+                            "valueOnRight": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "data": [
+            {
+                "label": "Jan",
+                "value": 600000
+            },
+            {
+                "label": "Feb",
+                "value": 650000
+            },
+            {
+                "label": "Mar",
+                "value": 700000
+            }
+        ]
+    },
+    {
+        "chart": {
+            "title": "Monthly Revenue - 2024",
+            "subtitle": "Harry's SuperMart",
+            "showDescription": true,
+            "showExportButton": true,
+            "exportFileName": "my-chart",
+            "width": "100%",
+            "height": "100%",
+            "backgroundColor": "#f0f0f0",
+            "orientation": "vertical",
+            "showValues": true,
+            "numberPrefix": "$",
+            "axisNames": {
+                "x": "Month",
+                "y": "Revenue (USD)"
+            },
+            "captionFont": "20px sans-serif",
+            "subCaptionFont": "14px sans-serif",
+            "colors": {
+                "bar": "#2ecc71",
+                "hover": "#27ae60"
+            },
+            "bar": {
+                "width": 30,
+                "spacing": 15,
+                "radius": 6
+            },
+            "axis": {
+                "yTicks": 6,
+                "xLabelFont": "12px sans-serif",
+                "yLabelFont": "11px sans-serif",
+                "yAxisLabelOffset": 45,
+                "yAxisTitlePadding": 10
+            },
+            "showXAxisLine": true,
+            "showYAxisLine": true,
+            "showTrendlines": true,
+            "trendlines": [
+                {
+                    "line": [
+                        {
+                            "startvalue": 700000,
+                            "displayvalue": "Target",
+                            "valueOnRight": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "data": [
+            {
+                "label": "Jan",
+                "value": 600000
+            },
+            {
+                "label": "Feb",
+                "value": 650000
+            },
+            {
+                "label": "Mar",
+                "value": 700000
+            }
+        ]
+    },
+    {
+        "chart": {
+            "title": "Monthly Revenue - 2024",
+            "subtitle": "Harry's SuperMart",
+            "showDescription": true,
+            "showExportButton": true,
+            "exportFileName": "my-chart",
+            "width": "100%",
+            "height": "100%",
+            "backgroundColor": "#f0f0f0",
+            "orientation": "vertical",
+            "showValues": true,
+            "numberPrefix": "$",
+            "axisNames": {
+                "x": "Month",
+                "y": "Revenue (USD)"
+            },
+            "captionFont": "20px sans-serif",
+            "subCaptionFont": "14px sans-serif",
+            "colors": {
+                "bar": "#2ecc71",
+                "hover": "#27ae60"
+            },
+            "bar": {
+                "width": 30,
+                "spacing": 15,
+                "radius": 6
+            },
+            "axis": {
+                "yTicks": 6,
+                "xLabelFont": "12px sans-serif",
+                "yLabelFont": "11px sans-serif",
+                "yAxisLabelOffset": 45,
+                "yAxisTitlePadding": 10
+            },
+            "showXAxisLine": true,
+            "showYAxisLine": true,
+            "showTrendlines": true,
+            "trendlines": [
+                {
+                    "line": [
+                        {
+                            "startvalue": 700000,
+                            "displayvalue": "Target",
+                            "valueOnRight": true
+                        }
+                    ]
+                }
+            ]
+        },
+        "data": [
+            {
+                "label": "Jan",
+                "value": 420000,
+                "color": "#f39c12",
+                "description": "Post-holiday dip"
+            },
+            {
+                "label": "Feb",
+                "value": 810000,
+                "color": "#e74c3c",
+                "description": "Valentine's spike"
+            }
+        ]
+    }
+]
